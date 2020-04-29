@@ -27,8 +27,8 @@ public class Player extends GameObject {
             gc.setStroke(javafx.scene.paint.Color.YELLOW);
         	gc.setTextBaseline( VPos.CENTER);
             gc.setFont(new Font (32)); //set the Font for the text being draw from GraphicsContext.
-            gc.fillText ("¬PªÅ»þ",x+125,y+50);
-            gc.strokeText ("¬PªÅ»þ",x+125,y+50);
+            gc.fillText ("æ˜Ÿç©ºå‡›",x+125,y+50);
+            gc.strokeText ("æ˜Ÿç©ºå‡›",x+125,y+50);
         }
     }
 
